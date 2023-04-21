@@ -201,7 +201,7 @@
 
 
 
-/* Section Packages Start */
+/* Section Hotels Start */
 .main-txt h1{
     text-align: center;
     margin-top: 30px;
@@ -245,7 +245,7 @@
     color: white;
     border-radius: 5px;
 }
-/* Section Packages End */
+/* Section Hotels End */
 
 
 
@@ -272,6 +272,8 @@
 .services .card .card-body{
     text-align: center;
 }
+
+
 /* Section Services End */
 
 
