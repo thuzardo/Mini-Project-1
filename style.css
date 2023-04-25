@@ -383,8 +383,11 @@
     
 }
 
-
 .social-links i:hover{
     background: #ffa500;
+}
+
+.social-links a {
+    text-decoration: none;
 }
 /* Footer End */
