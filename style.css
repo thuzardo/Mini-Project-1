@@ -374,7 +374,7 @@
     padding: 10px;
     border-radius: 5px;
     font-size: 20px;
-    background: black;
+    background: #ffa500;
     color: white;
     margin-left: 10px;
     margin-bottom: 10px;
@@ -384,10 +384,16 @@
 }
 
 .social-links i:hover{
-    background: #ffa500;
+    background: black;
 }
 
 .social-links a {
     text-decoration: none;
 }
 /* Footer End */
+
+/* Credit Start */
+
+.credit a {
+    text-decoration: none;
+}
